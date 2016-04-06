@@ -12,9 +12,6 @@ import java.io.IOException;
 import java.net.InetAddress;
 import java.net.Socket;
 
-/**
- * Created by h125673 on 3/17/16
- */
 public class CommThread extends HandlerThread {
 
     private final static String TAG = CommThread.class.getCanonicalName();
